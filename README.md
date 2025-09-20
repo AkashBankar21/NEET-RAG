@@ -15,28 +15,28 @@ This tool helps students save time, avoid misinformation, and focus on the most 
 ## 🚀 How to Run
 
 1. Clone this repository:
-   ```bash
+   '''bash
    git clone https://github.com/your-username/neet-rag-helper.git
    cd neet-rag-helper
-````
+''''
 
 2. Create a `.env` file in the root directory and add your OpenAI key:
 
-   ```env
+   '''env
    OPENAI_API_KEY="your-api-key"
-   ```
+   '''
 
 3. Install dependencies:
 
-   ```bash
+   '''bash
    pip install -r requirements.txt
-   ```
+   '''
 
 4. Start the Streamlit app:
 
-   ```bash
+   '''bash
    streamlit run default.py
-   ```
+   '''
 
 ---
 
