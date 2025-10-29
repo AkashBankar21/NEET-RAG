@@ -32,10 +32,15 @@ This tool helps students save time, avoid misinformation, and focus on the most 
    pip install -r requirements.txt
    '''
 
-4. Start the Streamlit app:
+4. Run Server side:
+
+   '''python server.py
+   '''
+   
+4. Run client side:
 
    '''bash
-   streamlit run default.py
+   streamlit run client.py
    '''
 
 ---
